@@ -1,1 +1,3 @@
-# This is my portfolio
+# Deployed link
+
+https://baktygulaitieva.github.io/baktygulaitieva.github.io./
